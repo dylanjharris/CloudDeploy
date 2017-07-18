@@ -1,4 +1,4 @@
-# $1 ==> the php version
+# $1 ==> 5.6.31
 curl -L -O https://github.com/phpbrew/phpbrew/raw/master/phpbrew
 chmod +x phpbrew
 sudo mv phpbrew /usr/local/bin/phpbrew
